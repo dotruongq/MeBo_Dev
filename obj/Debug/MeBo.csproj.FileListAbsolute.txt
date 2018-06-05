@@ -1,0 +1,13 @@
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.Form1.resources
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.Properties.Resources.resources
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.csproj.GenerateResource.cache
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.csproj.CoreCompileInputs.cache
+C:\Users\Ken\source\repos\MeBo\MeBo\bin\Debug\MeBo.exe.config
+C:\Users\Ken\source\repos\MeBo\MeBo\bin\Debug\MeBo.exe
+C:\Users\Ken\source\repos\MeBo\MeBo\bin\Debug\MeBo.pdb
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.exe
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.pdb
+C:\Users\Ken\source\repos\MeBo\MeBo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ken\source\repos\MeBo\MeBo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ken\source\repos\MeBo\MeBo\obj\Debug\MeBo.csproj.CopyComplete
